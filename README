@@ -1,0 +1,5 @@
+#Find URL 2 Download
+
+This Python script read line by line in a text file and if find a URL download a file in a Directory.
+
+;)
